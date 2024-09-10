@@ -34,7 +34,7 @@ To run any of the projects, follow these steps:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/Trevor-Kayeyia-Madara/100codingdaysusingnextjs.git
+    git clone https://github.com/Trevor-Kayeyia-Madara/100-coding-days-using-nextjs.git
     ```
 
 2. **Navigate to the project folder:**
