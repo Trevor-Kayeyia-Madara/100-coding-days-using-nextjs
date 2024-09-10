@@ -40,7 +40,7 @@ To run any of the projects, follow these steps:
 2. **Navigate to the project folder:**
 
     ```bash
-    cd 100codingdaysusingnextjs
+    cd 100-coding-days-using-nextjs
     ```
 
 3. **Install dependencies:**
