@@ -61,6 +61,14 @@ To run any of the projects, follow these steps:
 
 This challenge is not just about building projects—it's about cultivating a daily habit of coding, pushing boundaries, and learning through practice. By the end of these 100 days, I aim to have a solid understanding of Next.js and its ecosystem.
 
+## 📅 Daily Progress Log
+
+I will be documenting my daily progress, challenges, learnings, and solutions. Follow along to see how each project is developed from scratch to deployment.
+
+| Day  | Date         | Project                           | Status  | Learnings/Highlights                                      |
+|------|--------------|-----------------------------------|---------|------------------------------------------------------------|
+| 1    | 11-Sep-2024  | Personal Portfolio                | ✅ Done | Set up Next.js, styled-components, deployed on Vercel.     |
+
 ## 🤝 Contributing
 
 Have ideas or suggestions? Want to collaborate on a project? Feel free to reach out or contribute by:
